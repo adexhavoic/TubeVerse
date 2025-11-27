@@ -1,1 +1,1 @@
-i am makng this as my fourth commit 
+I restructured the entire logic for commit analysis by removing the old todo-based system prompt and introducing a new dedicated prompt designed specifically for comparing two GitHub commits. This update prepares the system to generate clear, human-friendly reports explaining what changed between full1 and full2 commit snapshots.
